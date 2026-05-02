@@ -6,7 +6,7 @@ The aim was to understand how mobile robot motion is represented, simulated, and
 
 ---
 
-# 🔹 What I learned
+# What I learned
 
 - Robot pose representation (x, y, θ) and its meaning in the world frame  
 - Difference between world frame and body frame  
@@ -16,7 +16,7 @@ The aim was to understand how mobile robot motion is represented, simulated, and
 - Handling angles in both degrees and radians  
 - Using matplotlib for simulation visualization and output saving
 
-# 🔹 Files explored
+# Scripts explored
 
 - live_ackermann_quick.py  
 - minimal_drive_and_play.py  
