@@ -4,8 +4,6 @@ This repository contains my exploration and annotated understanding of the Auror
 
 The aim was to understand how mobile robot motion is represented, simulated, and visualized, rather than just running example scripts.
 
----
-
 # What I learned
 
 - Robot pose representation (x, y, θ) and its meaning in the world frame  
